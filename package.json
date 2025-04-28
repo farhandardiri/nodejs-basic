@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "fundamental nodejs from event dicoding 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhandardiri/nodejs-basic.git"
+  },
+  "author": "farhandardiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhandardiri/nodejs-basic/issues"
+  },
+  "homepage": "https://github.com/farhandardiri/nodejs-basic#readme"
+}
